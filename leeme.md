@@ -1,5 +1,5 @@
 ## Codigo 
-![alt text](image.png)
+![alt text](image1.png)
 
 # resultados 
-![alt text](image1.png)
+![alt text](image.png)
